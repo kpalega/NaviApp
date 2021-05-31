@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NaviApp</string>
+    <string name="azimuth">0°</string>
+    <string name="instructionLabel">Instrukcja</string>
+    <string name="instructionText">1. Naciśnij przycisk \"Pobierz lokalizację\". \n2.Aplikacja pobierze punkt, w którym obecnie się znajdujesz i zapisze go.
+        \n3. Naciśnij na guzik \"Zacznij nawigować!\", aby aplikacja zaczęła wskazywać drogę do wcześniej zapisanej lokacji!
+        \n\n PS. Aplikację można zamknąć bez utraty danych!</string>
+    <string name="stop_navigate_button">Przestań nawigować</string>
+    <string name="delete_location_button">Usuń lokację</string>
+    <string name="start_navigate_button">Zacznij nawigować!</string>
+    <string name="get_location_button">Pobierz lokalizację</string>
+    <string name="error_message">Twoje urządzenie nie wspiera tej aplikacji.</string>
+    <string name="no_point"> Nie masz żadnego zapisanego punktu. Pobierz go teraz! </string>
+    <string name="alert_title">Uwaga!</string>
+    <string name="alert_delete">Masz już zapisaną lokalizację. Czy chcesz ją usunąć?</string>
+    <string name="alert_message">Masz już zapisaną lokalizację. Czy chcesz ją nadpisać?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="permission_denied">Uprawnienia odrzucone.</string>
+    <string name="start_navigate_error">Najpierw musisz pobrać lokalizację.</string>
+    <string name="delete_error">Nie masz żadnego zapisanego punktu.</string>
+    <string name="point"> Punkt:</string>
+    <string name="meters">metrów</string>
+    <string name="kilometers">kilometerów</string>
+</resources>

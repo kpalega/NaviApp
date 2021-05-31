@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NaviApp</string>
+    <string name="azimuth">0°</string>
+    <string name="instructionLabel">Instruction</string>
+    <string name="instructionText">1. Click on the "Get your location" button. \n2.Application will get point your current location and remember it.
+        \n3. Click on the "Start navigate!" button to let app track you to saved position! \n\n PS. App can be paused without losing data!</string>
+    <string name="stop_navigate_button">Stop navigate</string>
+    <string name="delete_location_button">Delete location</string>
+    <string name="start_navigate_button">Start navigate!</string>
+    <string name="get_location_button">Get your location</string>
+    <string name="error_message">Your device doesn\'t support that app</string>
+    <string name="no_point"> You don\'t have any point. Get it now! </string>
+    <string name="alert_title">Caution!</string>
+    <string name="alert_delete">You already have saved location. Do you want to delete it?</string>
+    <string name="alert_message">You already have saved location. Do you want to get new location?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="permission_denied">Permissions denied.</string>
+    <string name="start_navigate_error">You must get your position first.</string>
+    <string name="delete_error">You don\'t have any saved point.</string>
+    <string name="point"> Point:</string>
+    <string name="meters">meters</string>
+    <string name="kilometers">kilometers</string>
+</resources>
